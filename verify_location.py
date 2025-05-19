@@ -270,7 +270,7 @@ if __name__ == "__main__":
         if uq and isinstance(uq, list) and uq[0] == "query":
             handle_API_cache_query(uq[0], uq[1])
 
-        # Check if initial query.
+        # Check if filter query.
         if uq and isinstance(uq, list) and uq[0] == "filter_query":
             handle_API_cache_query(uq[0], uq[1])
 
