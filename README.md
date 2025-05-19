@@ -3,7 +3,7 @@ NOTE: Please reach out on Discord if you have any questions, comments, or concer
 
  
 
-## 'Verify Location' Microservice Overview
+# 'Verify Location' Microservice Overview
 The 'verify location' microservice provides a service for querying and filtering a local cache of cities and towns from OpenWeather to use in conjunction with their Weather API.
 
 ### Prerequisites
