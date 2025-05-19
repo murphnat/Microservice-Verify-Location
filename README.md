@@ -133,4 +133,4 @@ None -> no response sent to main program.
 ```
 
 ## UML Sequence Diagram:
-TODO
+![uml_microservice_a](https://github.com/user-attachments/assets/84742f67-2e99-4232-84aa-620c1ac8dcae)
