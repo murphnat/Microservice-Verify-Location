@@ -4,7 +4,7 @@
 The 'verify location' microservice provides a service for querying and filtering a local cache of cities and towns from OpenWeather to use in conjunction with their Weather API.
 
 ### Prerequisites
-The microservice can run locally on PC within Windows Command Prompt or Powershell using Python 3. Mac and Linux compatibility remains untested at this time. The microservice communication pipeline relies on Python ZeroMQ. Required python packages: `pyzmq, os, json, gzip, pickle, shutil, and urlib.request`.
+The microservice can run locally on PC within Windows Command Prompt or Powershell using Python 3. Mac and Linux compatibility remains untested at this time. The microservice communication pipeline relies on Python ZeroMQ. It utilizes (by default) PORT `5555` and PORT `5556`. Required python packages: `pyzmq, os, json, gzip, pickle, shutil, and urlib.request`.
 
 ### Install
 1. Install third party packages:
