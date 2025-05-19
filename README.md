@@ -1,5 +1,6 @@
 # 'Communication Contract'
 NOTE: Please reach out on Discord if you have any questions, comments, or concerns.
+
  
 
 ## 'Verify Location' Microservice Overview
