@@ -1,5 +1,5 @@
 # Communication Contract
-NOTE: Please reach out on Discord if you have any questions, comments, or concerns.
+NOTE: Please reach out on Discord before Friday, May 30th, if you have any questions, comments, or concerns.
 
  
 
